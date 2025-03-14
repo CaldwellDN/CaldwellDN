@@ -11,8 +11,8 @@ I'm a computer science student at Marymount University in Arlington, VA!
 ### Currently Learning:
 
 - C
-- PyTorch
+- Pandas
 
 ### Contact Me:
 
-- Email: CaldwellDN23@gmail.com
+- Email: CaldwellDN@protonmail.com
