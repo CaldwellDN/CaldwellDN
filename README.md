@@ -2,6 +2,8 @@
 
 I'm a computer science student at Marymount University in Arlington, VA!
 
+Blog: CaldwellDN.duckdns.org
+
 ### I love working with:
 
 - Bash
