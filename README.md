@@ -1,8 +1,8 @@
 ## Hi There!
 
-I'm a computer science student at Marymount University in Arlington, VA!
+I'm a third year computer science student at Marymount University in Arlington, VA!
 
-Blog: http://CaldwellDN.duckdns.org
+Blog: http://CaldwellDN.net
 
 ### I love working with:
 
